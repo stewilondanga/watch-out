@@ -107,18 +107,34 @@ body {
   animation: keyglanceleft 5s infinite;
 }
 
-/*@keyframes keyglanceleft{
-  0% { transform: translate(0%, 0%) }
-  3% {transform: translate(-25%, 15%)}
-  17% {transform: translate(-25%, 15%)}
-  20% {transform: translate(0%, 0%)}
-  25% { transform: translate(0%, 0%) }
-  28% {transform: translate(-25%, 5%)}
-  38% {transform: translate(-25%, 5%)}
-  40% {transform: translate(0%, 0%)}
+@keyframes keyglanceleft {
+  0% {
+    transform: translate(0%, 0%)
+  }
+  3% {
+    transform: translate(-25%, 15%)
+  }
+  17% {
+    transform: translate(-25%, 15%)
+  }
+  20% {
+    transform: translate(0%, 0%)
+  }
+  25% {
+    transform: translate(0%, 0%)
+  }
+  28% {
+    transform: translate(-25%, 5%)
+  }
+  38% {
+    transform: translate(-25%, 5%)
+  }
+  40% {
+    transform: translate(0%, 0%)
+  }
 }
 
-.bot1 .eyecenter {
+/*.bot1 .eyecenter {
   animation-delay:1s;
   animation: keyglanceright 5.7s infinite;
 }
