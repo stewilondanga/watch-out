@@ -166,11 +166,11 @@ body {
   }
 }
 
-/*.bot1 .eyebrow1 {
-  transform: translate(-8px,-3px) rotate(-17deg)
+.bot1 .eyebrow1 {
+  transform: translate(-8px, -3px) rotate(-17deg)
 }
 
-.bot2 .eyebrow1 {
+/*.bot2 .eyebrow1 {
   animation-delay:1s;
   animation: keybrow1 12.7s infinite;
 }
