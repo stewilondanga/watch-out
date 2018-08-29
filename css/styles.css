@@ -39,10 +39,11 @@ body {
   transform: skewY(3deg);
 }
 
-/*.bot2 .bodybottom {
+.bot2 .bodybottom {
   background-image: linear-gradient(#5fadff, #5691ff);
 }
-.bot1 {
+
+/*.bot1 {
   left: 4%;
 }
 .bot2 {
