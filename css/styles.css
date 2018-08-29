@@ -170,11 +170,12 @@ body {
   transform: translate(-8px, -3px) rotate(-17deg)
 }
 
-/*.bot2 .eyebrow1 {
-  animation-delay:1s;
+.bot2 .eyebrow1 {
+  animation-delay: 1s;
   animation: keybrow1 12.7s infinite;
 }
-.bot2 .eyebrow2 {
+
+/*.bot2 .eyebrow2 {
   animation-delay:1s;
   animation: keybrow2 12.7s infinite;
 }
