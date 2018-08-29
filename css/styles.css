@@ -208,11 +208,13 @@ body {
   animation: keybounce 6s infinite;
 }
 
-/*@keyframes keybounce {
-  10% {transform: translate(0px, 10px) skewY(-4deg);}
+@keyframes keybounce {
+  10% {
+    transform: translate(0px, 10px) skewY(-4deg);
+  }
 }
 
-.bodytop2 {
+/*.bodytop2 {
   animation: keybounce2 5s infinite;
 }
 @keyframes keybounce2 {
