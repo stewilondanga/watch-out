@@ -81,20 +81,20 @@ body {
   background: radial-gradient(circle at 70% 30%, #777 0%, #555 35%, #222 80%);
 }
 
-/*.bodybottom {
-  position:absolute;
-  top:180px;
-  height:100px;
-  width:200px;
-  background-color:#FBB;
+.bodybottom {
+  position: absolute;
+  top: 180px;
+  height: 100px;
+  width: 200px;
+  background-color: #FBB;
   background-image: linear-gradient(#ff9d2f, #ff6126);
   transform: skewX(-2deg);
   transform-origin: top left;
-  z-index:-1;
+  z-index: -1;
   box-shadow: 2px 2px 2px black;
-
 }
-.eyebrow {
+
+/*.eyebrow {
   position:absolute;
   top:-30%;
   width: 120%;
