@@ -175,11 +175,12 @@ body {
   animation: keybrow1 12.7s infinite;
 }
 
-/*.bot2 .eyebrow2 {
-  animation-delay:1s;
+.bot2 .eyebrow2 {
+  animation-delay: 1s;
   animation: keybrow2 12.7s infinite;
 }
-@keyframes keybrow1 {
+
+/*@keyframes keybrow1 {
   0% {transform: translate(0px,0px)}
   5%,45% {transform: translate(0px,10px) rotate(-5deg)}
   50% {transform: translate(0px,10px) rotate(-5deg)}
