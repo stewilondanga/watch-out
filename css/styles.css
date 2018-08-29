@@ -293,10 +293,6 @@ body {
 }
 
 #contact h1 {
-  font-family: helvetica;
-  font-weight: normal;
-  text-align: center;
-  color: #F92618;
   padding-top: 150px;
   padding-bottom: 10px;
   width: 375px;
@@ -304,17 +300,17 @@ body {
   border-bottom: 3px solid #f3f3f3;
 }
 
-/*.cal {
+.cal {
   display: inline-block;
   background: #ffe;
-  color: #555;
+  color: #F92618;
   font-size: 6px;
   text-align: center;
   transform: scale(1);
   transition: all 0.2s linear;
 }
 
-.cal:hover {
+/*.cal:hover {
   transform: scale(2.5);
   transition: all 0.4s linear;
 }
