@@ -47,10 +47,11 @@ body {
   left: 4%;
 }
 
-/*.bot2 {
+.bot2 {
   left: 66%;
 }
-.eye {
+
+/*.eye {
   position:absolute;
   width:25%;
   height:25%;
