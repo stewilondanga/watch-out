@@ -261,12 +261,12 @@ body {
   }
 }
 
-/*.bot1 {
+.bot1 {
   transform-origin: 50% 80%;
   animation: keybot 30s infinite linear;
 }
 
-@keyframes keybot {
+/*@keyframes keybot {
   0%, 29% { transform: scale(1.0)}
   45%,55% { transform: scale(0.3) translate(120px, 120px) }
   58%,86% { transform: scale(0.33) translate(170px, 120px) }
