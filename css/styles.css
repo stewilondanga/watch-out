@@ -1,12 +1,8 @@
-/*body {
-  text-align: center;
-  font-family: courier;
-  background-image: url("../assets/image.jpeg");
-  background-repeat: no-repeat;
-  background-size: 100%;
+body {
+  padding: 50px;
 }
 
-.my_social {
+/*.my_social {
   position: absolute;
   top: 25px;
   left: 25px;
@@ -19,10 +15,6 @@
 
 .my_social a img {
   height: 1.5em;
-}
-
-body {
-  padding:50px;
 }
 
 .bot {
