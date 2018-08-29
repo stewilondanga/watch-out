@@ -230,19 +230,20 @@ body {
   background-size: 100px 50px;
 }
 
-/*.text1 {
-  position:absolute;
-  left:35%;
-  top:30%;
+.text1 {
+  position: absolute;
+  left: 35%;
+  top: 30%;
   width: 25%;
   font: 24px sans-serif;
-  background:white;
-  border-radius:10px;
-  padding:10px;
-  z-index:-2;
+  background: white;
+  border-radius: 10px;
+  padding: 10px;
+  z-index: -2;
   animation: keytext 14s infinite;
 }
-@keyframes keytext {
+
+/*@keyframes keytext {
   0%, 46% { transform: scale(1); }
   51%, 60% { transform: scale(0); }
   61% { transform: translate(200px, 0px ) scale(0); }
