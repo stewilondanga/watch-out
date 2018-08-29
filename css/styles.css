@@ -94,16 +94,16 @@ body {
   box-shadow: 2px 2px 2px black;
 }
 
-/*.eyebrow {
-  position:absolute;
-  top:-30%;
+.eyebrow {
+  position: absolute;
+  top: -30%;
   width: 120%;
   height: 30%;
-  background-color:pink;
+  background-color: pink;
   box-shadow: 2px 2px 2px #0004;
 }
 
-.bot2 .eyecenter {
+/*.bot2 .eyecenter {
   animation: keyglanceleft 5s infinite;
 }
 @keyframes keyglanceleft{
